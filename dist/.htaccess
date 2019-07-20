@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/smbsogbd/new.drshasf.com"
+PassengerBaseURI "/"
+PassengerNodejs "/home/smbsogbd/nodevenv/new.drshasf.com/9/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
